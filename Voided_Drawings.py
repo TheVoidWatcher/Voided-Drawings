@@ -187,7 +187,7 @@ class DrawingApp:
             self.canvas.delete(shape_id)
 
     def redo(self):
-        pass  # This functionality can be added if needed
+        pass
 
 if __name__ == "__main__":
     root = tk.Tk()
